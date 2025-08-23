@@ -200,9 +200,8 @@ After a week of non-stop wallet searching, I finally found a [wallet](https://me
 
 [bc1q05cmxffxaj324epjv5ly0ecncte9an9t33napy](https://mempool.space/address/bc1q05cmxffxaj324epjv5ly0ecncte9an9t33napy)
 <p align="center">
-<img width="1000" height="460" alt="0.2btc" src="https://github.com/user-attachments/assets/a834fefc-74ea-4a76-9af7-35bf61188c5d" />
+<img width="1000" height="460" alt="0.2btc" src="https://github.com/user-attachments/assets/e34fcb20-3d65-43ee-bd0d-1c6d107a0540" />
 </p>
-
 
 
 ## Building the Project
