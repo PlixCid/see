@@ -196,6 +196,14 @@ After a week of non-stop wallet searching, I finally found a [wallet](https://me
     <img width="1000" height="460" src="https://github.com/user-attachments/assets/552d00df-dc70-4c42-9fa9-1cf258681af7" />
 </p>
 
+## New Find 8/23/2025
+
+[bc1q05cmxffxaj324epjv5ly0ecncte9an9t33napy](https://mempool.space/address/bc1q05cmxffxaj324epjv5ly0ecncte9an9t33napy)
+<p align="center">
+<img width="1000" height="460" alt="0.2btc" src="https://github.com/user-attachments/assets/a834fefc-74ea-4a76-9af7-35bf61188c5d" />
+</p>
+
+
 
 ## Building the Project
 
