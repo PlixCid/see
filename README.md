@@ -47,14 +47,6 @@ Wallet Gen is built in C++ and is open-source, allowing anyone to access and mod
 
 Unlike Python-based brute force tools, **WalletGen** is written in C++ and optimized for multi-threaded CPU and GPU usage, delivering up to **10x faster** performance. Whether you’re exploring lost wallets, verifying private key space, or recovering your own wallet, WalletGen gives you the power to do it efficiently and securely.
 
-## Features
-
-- **Generation of cryptocurrency wallets**: Wallet Gen supports creating single wallets for Bitcoin, Ethereum, BNB, MATIC and other cryptocurrencies.
-- **Search for wallets with balance**: Using bruteforce techniques, Wallet Gen allows you to search for existing wallets with balances in both the Bitcoin network and EVMs.
-- **Support for various algorithms**: Keccak256 algorithm for EVM wallets and BIP39, BIP44, Bech32 algorithm for Bitcoin are used for wallet generation.
-- **Using a database to speed up searches**: Download and use databases to search for balance wallets, speeding up the process tenfold.
-- **High speed of operation**: Wallet Gen utilizes the power of the CPU and GPU to achieve the best performance.
-- **Recovery your Bitcoin wallet**: WalletGen allows you to recover your bitcoin wallet by seed phrase (mnemonic phrase).
 
 ## Supported Blockchains
 
@@ -65,14 +57,19 @@ Unlike Python-based brute force tools, **WalletGen** is written in C++ and optim
 
 # Demo
 
+### Windows
+
 <p align="center">
     <img width="1000" height="460" alt="WalletGen search lost bitcoin wallets on Windows Demo" title="WalletGen search lost bitcoin wallets on Windows" src="/assets/walletgen-demo.gif" />
 </p>
+
+### MacOS 
 
 <p align="center">
     <img width="1000" height="460" alt="WalletGen search lost bitcoin wallets on MacOS Demo" title="WalletGen search lost bitcoin wallets on MacOS" src="/assets/walletgen_macos2.webp" />
 </p>
 
+### Linux
 
 <p align="center">
     <img width="1000" height="460" alt="WalletGen search lost bitcoin wallets on Linux Demo" title="WalletGen search lost bitcoin wallets on Linux" src="/assets/walletgen_linux1.webp" />
